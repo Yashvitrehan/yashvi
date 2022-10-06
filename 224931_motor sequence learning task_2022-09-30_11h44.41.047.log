@@ -1,0 +1,147 @@
+2.9767 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+8.2624 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+9.6814 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002120B43EF10>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000021210B32460>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.6821 	EXP 	window1: mouseVisible = True
+9.6825 	EXP 	window1: mouseVisible = False
+9.6826 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.6826 	EXP 	window1: recordFrameIntervals = False
+9.8450 	EXP 	window1: recordFrameIntervals = True
+10.0280 	EXP 	Screen (0) actual frame rate measured at 60.30Hz
+10.0280 	EXP 	window1: recordFrameIntervals = False
+12.5347 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([-0.2549,  0.2392,  0.2549]), fillColorSpace='rgb', fillRGB=array([-0.2549,  0.2392,  0.2549]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.5359 	EXP 	Created line1 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line1', opacity=1.0, ori=90.0, pos=array([-150.,    0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+12.5370 	EXP 	Created line2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line2', opacity=1.0, ori=90.0, pos=array([-50.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+12.5379 	EXP 	Created line3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line3', opacity=1.0, ori=90.0, pos=array([50.,  0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+12.5389 	EXP 	Created line4 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line4', opacity=1.0, ori=90.0, pos=array([150.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+12.5401 	EXP 	Created probe = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='probe', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.5414 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([-0.2549,  0.2392,  0.2549]), fillColorSpace='rgb', fillRGB=array([-0.2549,  0.2392,  0.2549]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.5424 	EXP 	Created line1 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line1', opacity=1.0, ori=90.0, pos=array([-150.,    0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+12.5434 	EXP 	Created line2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line2', opacity=1.0, ori=90.0, pos=array([-50.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+12.5444 	EXP 	Created line3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line3', opacity=1.0, ori=90.0, pos=array([50.,  0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+12.5453 	EXP 	Created line4 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line4', opacity=1.0, ori=90.0, pos=array([150.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+12.5476 	EXP 	Created probe = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='probe', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.5529 	EXP 	Imported C:/Users/Sandeep/OneDrive/Desktop/lab in psychology/sequence conditions.csv as conditions, 4 conditions, 2 params
+12.5534 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+12.5537 	EXP 	New trial (rep=0, index=0): OrderedDict([('pos', -50), ('corr_resp', 'x')])
+12.5656 	EXP 	fixation: autoDraw = True
+13.5609 	EXP 	line1: autoDraw = True
+13.5609 	EXP 	line2: autoDraw = True
+13.5609 	EXP 	line3: autoDraw = True
+13.5609 	EXP 	line4: autoDraw = True
+13.5777 	EXP 	fixation: autoDraw = False
+14.5607 	EXP 	probe: autoDraw = True
+15.3340 	DATA 	Keypress: x
+15.3468 	EXP 	New trial (rep=0, index=1): OrderedDict([('pos', 150), ('corr_resp', 'v')])
+15.3605 	EXP 	fixation: autoDraw = False
+15.3605 	EXP 	line1: autoDraw = False
+15.3605 	EXP 	line2: autoDraw = False
+15.3605 	EXP 	line3: autoDraw = False
+15.3605 	EXP 	line4: autoDraw = False
+15.3605 	EXP 	probe: autoDraw = False
+15.3605 	EXP 	fixation: autoDraw = True
+16.3603 	EXP 	fixation: autoDraw = False
+16.3603 	EXP 	line1: autoDraw = True
+16.3603 	EXP 	line2: autoDraw = True
+16.3603 	EXP 	line3: autoDraw = True
+16.3603 	EXP 	line4: autoDraw = True
+17.3600 	EXP 	probe: autoDraw = True
+19.5626 	EXP 	New trial (rep=0, index=2): OrderedDict([('pos', 50), ('corr_resp', 'c')])
+19.5645 	DATA 	Keypress: v
+19.5766 	EXP 	fixation: autoDraw = False
+19.5766 	EXP 	line1: autoDraw = False
+19.5766 	EXP 	line2: autoDraw = False
+19.5766 	EXP 	line3: autoDraw = False
+19.5766 	EXP 	line4: autoDraw = False
+19.5766 	EXP 	probe: autoDraw = False
+19.5766 	EXP 	fixation: autoDraw = True
+20.5768 	EXP 	fixation: autoDraw = False
+20.5768 	EXP 	line1: autoDraw = True
+20.5768 	EXP 	line2: autoDraw = True
+20.5768 	EXP 	line3: autoDraw = True
+20.5768 	EXP 	line4: autoDraw = True
+21.5761 	EXP 	probe: autoDraw = True
+22.4445 	EXP 	New trial (rep=0, index=3): OrderedDict([('pos', -150), ('corr_resp', 'z')])
+22.4463 	DATA 	Keypress: c
+22.4596 	EXP 	fixation: autoDraw = False
+22.4596 	EXP 	line1: autoDraw = False
+22.4596 	EXP 	line2: autoDraw = False
+22.4596 	EXP 	line3: autoDraw = False
+22.4596 	EXP 	line4: autoDraw = False
+22.4596 	EXP 	probe: autoDraw = False
+22.4596 	EXP 	fixation: autoDraw = True
+23.4597 	EXP 	fixation: autoDraw = False
+23.4597 	EXP 	line1: autoDraw = True
+23.4597 	EXP 	line2: autoDraw = True
+23.4597 	EXP 	line3: autoDraw = True
+23.4597 	EXP 	line4: autoDraw = True
+24.4595 	EXP 	probe: autoDraw = True
+25.4485 	DATA 	Keypress: z
+25.4655 	EXP 	Imported C:/Users/Sandeep/OneDrive/Desktop/lab in psychology/sequence conditions.csv as conditions, 4 conditions, 2 params
+25.4660 	EXP 	Created sequence: fullRandom, trialTypes=4, nReps=1, seed=None
+25.4664 	EXP 	New trial (rep=0, index=0): OrderedDict([('pos', -150), ('corr_resp', 'z')])
+25.4757 	EXP 	fixation: autoDraw = False
+25.4757 	EXP 	line1: autoDraw = False
+25.4757 	EXP 	line2: autoDraw = False
+25.4757 	EXP 	line3: autoDraw = False
+25.4757 	EXP 	line4: autoDraw = False
+25.4757 	EXP 	probe: autoDraw = False
+25.4757 	EXP 	fixation: autoDraw = True
+26.4763 	EXP 	fixation: autoDraw = False
+26.4763 	EXP 	line1: autoDraw = True
+26.4763 	EXP 	line2: autoDraw = True
+26.4763 	EXP 	line3: autoDraw = True
+26.4763 	EXP 	line4: autoDraw = True
+27.4752 	EXP 	probe: autoDraw = True
+28.1977 	EXP 	New trial (rep=0, index=1): OrderedDict([('pos', 150), ('corr_resp', 'v')])
+28.2002 	DATA 	Keypress: z
+28.2090 	EXP 	fixation: autoDraw = False
+28.2090 	EXP 	line1: autoDraw = False
+28.2090 	EXP 	line2: autoDraw = False
+28.2090 	EXP 	line3: autoDraw = False
+28.2090 	EXP 	line4: autoDraw = False
+28.2090 	EXP 	probe: autoDraw = False
+28.2090 	EXP 	fixation: autoDraw = True
+29.2090 	EXP 	fixation: autoDraw = False
+29.2090 	EXP 	line1: autoDraw = True
+29.2090 	EXP 	line2: autoDraw = True
+29.2090 	EXP 	line3: autoDraw = True
+29.2090 	EXP 	line4: autoDraw = True
+30.2089 	EXP 	probe: autoDraw = True
+31.2306 	DATA 	Keypress: v
+31.2453 	EXP 	New trial (rep=0, index=2): OrderedDict([('pos', 50), ('corr_resp', 'c')])
+31.2587 	EXP 	fixation: autoDraw = False
+31.2587 	EXP 	line1: autoDraw = False
+31.2587 	EXP 	line2: autoDraw = False
+31.2587 	EXP 	line3: autoDraw = False
+31.2587 	EXP 	line4: autoDraw = False
+31.2587 	EXP 	probe: autoDraw = False
+31.2587 	EXP 	fixation: autoDraw = True
+32.2584 	EXP 	fixation: autoDraw = False
+32.2584 	EXP 	line1: autoDraw = True
+32.2584 	EXP 	line2: autoDraw = True
+32.2584 	EXP 	line3: autoDraw = True
+32.2584 	EXP 	line4: autoDraw = True
+33.2585 	EXP 	probe: autoDraw = True
+34.6619 	EXP 	New trial (rep=0, index=3): OrderedDict([('pos', -50), ('corr_resp', 'x')])
+34.6643 	DATA 	Keypress: c
+34.6750 	EXP 	fixation: autoDraw = False
+34.6750 	EXP 	line1: autoDraw = False
+34.6750 	EXP 	line2: autoDraw = False
+34.6750 	EXP 	line3: autoDraw = False
+34.6750 	EXP 	line4: autoDraw = False
+34.6750 	EXP 	probe: autoDraw = False
+34.6750 	EXP 	fixation: autoDraw = True
+35.6748 	EXP 	fixation: autoDraw = False
+35.6748 	EXP 	line1: autoDraw = True
+35.6748 	EXP 	line2: autoDraw = True
+35.6748 	EXP 	line3: autoDraw = True
+35.6748 	EXP 	line4: autoDraw = True
+36.6746 	EXP 	probe: autoDraw = True
+37.5446 	DATA 	Keypress: x
+37.5579 	EXP 	fixation: autoDraw = False
+37.5579 	EXP 	line1: autoDraw = False
+37.5579 	EXP 	line2: autoDraw = False
+37.5579 	EXP 	line3: autoDraw = False
+37.5579 	EXP 	line4: autoDraw = False
+37.5579 	EXP 	probe: autoDraw = False
+37.7549 	EXP 	window1: mouseVisible = True
